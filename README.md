@@ -20,9 +20,9 @@ link : https://pkg.go.dev/cmd/go/internal/get
 go get [-d] [-f] [-t] [-u] [-v] [-fix] [-insecure] [build flags] [packages]
 ```
 -----
-### ent docs
-
-link : https://entgo.io/docs/getting-started/ 
+### ent doc
+link : https://entgo.io/docs/getting-started/
+ 
 -----
 ### go module create -> 'go.mod'
 ```
@@ -41,8 +41,8 @@ go run entgo.io/ent/cmd/ent init <schema> <schema> <>...
 ```
 -----
 ### schema setting
-
 link : https://entgo.io/docs/schema-def
+
 -----
 ### generate schema
 ```

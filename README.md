@@ -92,7 +92,7 @@ func main() {
 }
 ```
 -----
-### PostgreSQL
+### ~~PostgreSQL~~ (here not use)
 1. driver add
 ```
 go get github.com/lib/pq

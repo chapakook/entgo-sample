@@ -1,5 +1,5 @@
 # golearn - ent (mac M1)
------
+
 
 ### go module
 go module setting
@@ -14,7 +14,7 @@ go env -w GO111MODULE=[state]
 -----
 
 ### go get option
-https://pkg.go.dev/cmd/go/internal/get
+link : https://pkg.go.dev/cmd/go/internal/get
 
 ```
 go get [-d] [-f] [-t] [-u] [-v] [-fix] [-insecure] [build flags] [packages]

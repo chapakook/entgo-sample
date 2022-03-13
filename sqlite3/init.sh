@@ -13,7 +13,7 @@ echo "Init Schema"
 go run entgo.io/ent/cmd/ent init User Account
 
 echo "cp Schema 'User.go' 'Account.go'"
-cp Schema ent/schema
+cp -r schema ent
 
 echo "go generate"
 go generate ./ent

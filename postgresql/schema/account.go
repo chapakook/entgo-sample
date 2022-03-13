@@ -14,7 +14,6 @@ type Account struct {
 // Fields of the Account.
 func (Account) Fields() []ent.Field {
 	return []ent.Field{
-		field.Int("id").Unique(),
 		field.Int("money").Default(0),
 	}
 }
